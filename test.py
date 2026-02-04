@@ -1,1 +1,1 @@
-print("Hello GIT")
+theater_capacity=350
