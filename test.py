@@ -1,1 +1,0 @@
-theater_capacity=350
